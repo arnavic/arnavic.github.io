@@ -1,0 +1,25 @@
+{
+    "projects": [
+        {
+            "name": "Project 1",
+            "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "image_link": "/images/arnavi.jpg",
+            "publication_link": "https://example.com/project1",
+            "learn_more_link": "https://example.com/project1"
+        },
+        {
+            "name": "Project 2",
+            "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "image_link": "/images/arnavi.jpg",
+            "publication_link": "https://example.com/project2",
+            "learn_more_link": "https://example.com/project2"
+        },
+        {
+            "name": "Project 3",
+            "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "image_link": "/images/arnavi.jpg",
+            "publication_link": "https://example.com/project3",
+            "learn_more_link": "https://example.com/project3"
+        }
+    ]
+}
