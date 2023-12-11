@@ -16,17 +16,29 @@ document.addEventListener('DOMContentLoaded', function () {
         const projectDiv = document.createElement('div');
         projectDiv.classList.add('project');
 
+        
         // Populate the div with project information
-        projectDiv.innerHTML = `
+        var innerHTML = `
             <img src="${project.image_link}"/>
             <div>
                 <h2>${project.name}</h2>
                 <p>${project.details}</p>
-                <a href="${project.publication_link}" target="_blank">Publication</a>
-                <a href="${project.learn_more_link}" target="_blank">Learn More</a>
-            </div>
         `;
 
+        if (project.publication_link && project.publication_link != "") {
+            innerHTML += `<a href="${project.publication_link}" target="_blank">Publication</a>`
+        }
+
+        if (project.learn_more_link && project.learn_more_link != "") {
+            innerHTML += `<a href="${project.learn_more_link}" target="_blank">Learn More</a>`
+
+        }
+        innerHTML += `</div>`
+
+        projectDiv.innerHTML = innerHTML;
+
+        
+   
         // Append the div to the container
         document.getElementById('projects').appendChild(projectDiv);
     }

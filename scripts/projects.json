@@ -1,25 +1,23 @@
 {
     "projects": [
         {
-            "name": "Project 1",
-            "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-            "image_link": "/images/arnavi.jpg",
-            "publication_link": "https://example.com/project1",
-            "learn_more_link": "https://example.com/project1"
+            "name": "Spatial Interactions for Desktop Screen Readers",
+            "details": "Bringing richer website layout understanding to blind and low-vision users on desktop computers",
+            "image_link": "/images/spatial.png",
+            "publication_link": "https://dl.acm.org/doi/10.1145/3597638.3614490",
+            "learn_more_link": "https://ceal.cs.columbia.edu/spatialinteractions/"
         },
         {
-            "name": "Project 2",
-            "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-            "image_link": "/images/arnavi.jpg",
-            "publication_link": "https://example.com/project2",
-            "learn_more_link": "https://example.com/project2"
+            "name": "Virtual Reality to Promote Fitness in Ambulatory Youth with Cerebral Palsy: A Case Series",
+            "details": "Understanding how VR gameplay promotes physical therapy engagement in youth with cerebral palsy",
+            "image_link": "/images/cerebral_palsy.png",
+            "publication_link": "https://apta.confex.com/apta/csm2023/meetingapp.cgi/Paper/38028"
         },
         {
-            "name": "Project 3",
-            "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-            "image_link": "/images/arnavi.jpg",
-            "publication_link": "https://example.com/project3",
-            "learn_more_link": "https://example.com/project3"
+            "name": "Eye-Tracking to Enable Environment Interactions for People with Limited Mobility",
+            "details": "Unlocking novel digital application interactions using an eye-tracker to interact with physical world appliances",
+            "image_link": "/images/tarv.png",
+            "learn_more_link": "https://www.youtube.com/watch?v=eUQ0zvcbMsY&list=PLbxXbrH8kQpHRsFN_vFuuRolRLMHFKBpH"
         }
     ]
 }
