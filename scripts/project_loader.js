@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', function () {
         
         // Populate the div with project information
         var innerHTML = `
-            <img src="${project.image_link}"/>
+            <img src="${project.image_link}" alt="${project.alt_text}"/>
             <div>
                 <h2>${project.name}</h2>
                 <p>${project.details}</p>
