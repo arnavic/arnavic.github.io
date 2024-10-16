@@ -4,6 +4,7 @@
             "name": "Engaging with Children's Artwork in Mixed Visual-Ability Families",
             "details": "Understanding the role of technology in enabling BLV family members to engage more meaningfully with children's 2D visual creations",
             "image_link": "/images/lovemonster.png",
+            "alt_text": "A vibrant painting of a happy purple monster called the Love Monster set against a blue background",
             "publication_link": "https://arxiv.org/abs/2407.18874",
             "learn_more_link": "https://makeabilitylab.cs.washington.edu/project/mixed-ability-art/"
         },
@@ -11,6 +12,7 @@
             "name": "AltGeoViz: Facilitating Accessible Geovisualization",
             "details": "Dynamically generated alt-text descriptions for map views, providing summaries of spatial patterns and descriptive statistics",
             "image_link": "/images/grid-abstraction.png",
+            "alt_text": "A visual of map views with blue colors showing different visualizations and trends",
             "publication_link": "https://arxiv.org/abs/2406.13853",
             "learn_more_link": "https://makeabilitylab.cs.washington.edu/project/altgeoviz/"
         },
