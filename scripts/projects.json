@@ -1,6 +1,20 @@
 {
     "projects": [
         {
+            "name": "Engaging with Children's Artwork in Mixed Visual-Ability Families",
+            "details": "Understanding the role of technology in enabling BLV family members to engage more meaningfully with children's 2D visual creations",
+            "image_link": "/images/lovemonster.png",
+            "publication_link": "https://arxiv.org/abs/2407.18874",
+            "learn_more_link": "https://makeabilitylab.cs.washington.edu/project/mixed-ability-art/"
+        },
+        {
+            "name": "AltGeoViz: Facilitating Accessible Geovisualization",
+            "details": "Dynamically generated alt-text descriptions for map views, providing summaries of spatial patterns and descriptive statistics",
+            "image_link": "/images/grid-abstraction.png",
+            "publication_link": "https://arxiv.org/abs/2406.13853",
+            "learn_more_link": "https://makeabilitylab.cs.washington.edu/project/altgeoviz/"
+        },
+        {
             "name": "Spatial Interactions for Desktop Screen Readers",
             "details": "Bringing richer website layout understanding to blind and low-vision users on desktop computers",
             "image_link": "/images/spatial.png",
