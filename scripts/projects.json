@@ -18,6 +18,7 @@
             "name": "Spatial Interactions for Desktop Screen Readers",
             "details": "Bringing richer website layout understanding to blind and low-vision users on desktop computers",
             "image_link": "/images/spatial.png",
+            "alt_text": "An image of a person with headphones traversing a binary tree on a computer through spatial interactions",
             "publication_link": "https://dl.acm.org/doi/10.1145/3597638.3614490",
             "learn_more_link": "https://ceal.cs.columbia.edu/spatialinteractions/"
         },
@@ -25,12 +26,14 @@
             "name": "Virtual Reality to Promote Fitness in Ambulatory Youth with Cerebral Palsy: A Case Series",
             "details": "Understanding how VR gameplay promotes physical therapy engagement in youth with cerebral palsy",
             "image_link": "/images/cerebral_palsy.png",
+            "alt_text": "A Virtual Reality headset, which is black in color",
             "publication_link": "https://apta.confex.com/apta/csm2023/meetingapp.cgi/Paper/38028"
         },
         {
             "name": "Eye-Tracking to Enable Environment Interactions for People with Limited Mobility",
             "details": "Unlocking novel digital application interactions using an eye-tracker to interact with physical world appliances",
             "image_link": "/images/tarv.png",
+            "alt_text": "A group of people gathered around a computer, one of the people is Arnavi Chheda-Kothary and she is wearing an eye tracking device",
             "learn_more_link": "https://www.youtube.com/watch?v=eUQ0zvcbMsY&list=PLbxXbrH8kQpHRsFN_vFuuRolRLMHFKBpH"
         }
     ]
