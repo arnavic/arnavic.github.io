@@ -2,7 +2,7 @@
     "projects": [
         {
             "name": "Engaging with Children's Artwork in Mixed Visual-Ability Families",
-            "details": "Understanding the role of technology in enabling BLV family members to engage more meaningfully with children's 2D visual creations",
+            "details": "Understanding the role of technology in enabling blind and low-vision parents and relatives to engage more meaningfully with their children's visual creations",
             "image_link": "/images/lovemonster.png",
             "alt_text": "A vibrant painting of a happy purple monster called the Love Monster set against a blue background",
             "authors": "Arnavi Chheda-Kothary, Jacob O. Wobbrock, Jon E. Froehlich",
@@ -24,7 +24,7 @@
         },
         {
             "name": "Understanding Blind and Low Vision Users' Attitudes Towards Spatial Interactions in Desktop Screen Readers",
-            "details": "Bringing richer website layout understanding to blind and low-vision users on desktop computers",
+            "details": "Bringing richer website layout understanding to blind and low-vision users on desktops",
             "image_link": "/images/spatial.png",
             "alt_text": "An image of a person with headphones traversing a binary tree on a computer through spatial interactions",
             "authors": "Arnavi Chheda-Kothary, David A. Rios, Kynnedy Simone Smith, Avery Reyna, Cecilia Zhang, Brian A. Smith",

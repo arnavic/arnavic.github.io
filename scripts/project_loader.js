@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', function () {
             <div>
                 <h2>${project.name}</h2>
                 <p>${project.details}</p>
-                <p>${project.authors}</p>
+                <p>${project.authors || ""}</p>
         `;
 
         if (project.conference_name && project.conference_name != "" && project.conference_link) {
