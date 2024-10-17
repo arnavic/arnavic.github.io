@@ -23,7 +23,12 @@ document.addEventListener('DOMContentLoaded', function () {
             <div>
                 <h2>${project.name}</h2>
                 <p>${project.details}</p>
+                <p>${project.authors}</p>
         `;
+
+        if (project.conference_name && project.conference_name != "" && project.conference_link) {
+            innerHTML += `<a href="${project.conference_link}" target="_blank">${project.conference_name}</a>`
+        }
 
         if (project.publication_link && project.publication_link != "") {
             innerHTML += `<a href="${project.publication_link}" target="_blank">Publication</a>`
