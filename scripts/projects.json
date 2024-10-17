@@ -11,8 +11,8 @@
         {
             "name": "AltGeoViz: Facilitating Accessible Geovisualization",
             "details": "Dynamically generated alt-text descriptions for map views, providing summaries of spatial patterns and descriptive statistics",
-            "image_link": "/images/grid-abstraction.png",
-            "alt_text": "A visual of map views with blue colors showing different visualizations and trends",
+            "image_link": "/images/grid.png",
+            "alt_text": "A visual of a USA map with blue and green colors showing different visualizations and trends",
             "publication_link": "https://arxiv.org/abs/2406.13853",
             "learn_more_link": "https://makeabilitylab.cs.washington.edu/project/altgeoviz/"
         },
