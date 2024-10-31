@@ -21,7 +21,7 @@ document.addEventListener('DOMContentLoaded', function () {
         var innerHTML = `
             <img src="${project.image_link}" alt="${project.alt_text}"/>
             <div>
-                <h2>${project.name} ${project.best_paper && <img src="/images/bestpaper.png" height="50px" alt="Best Paper Award icon" />}</h2>
+                <h2>${project.name} ${project.best_paper && `<img src="/images/bestpaper.png" height="50px" alt="Best Paper Award icon" />`}</h2>
                 <p>${project.details}</p>
                 <p>${project.authors || ""}</p>
         `;
