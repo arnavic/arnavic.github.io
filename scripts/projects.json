@@ -9,7 +9,8 @@
             "conference_name": "ASSETS 2024",
             "conference_link": "https://assets24.sigaccess.org/",
             "publication_link": "https://arxiv.org/abs/2407.18874",
-            "learn_more_link": "https://makeabilitylab.cs.washington.edu/project/mixed-ability-art/"
+            "learn_more_link": "https://makeabilitylab.cs.washington.edu/project/mixed-ability-art/",
+            "best_paper": true
         },
         {
             "name": "AltGeoViz: Facilitating Accessible Geovisualization",
