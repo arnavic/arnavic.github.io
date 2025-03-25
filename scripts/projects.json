@@ -1,6 +1,17 @@
 {
     "projects": [
         {
+            "name": "ArtInsight: Enabling AI-Powered Artwork Engagement for Mixed Visual-Ability Families",
+            "details": "A Human-AI system designed for deeper engagement between blind or low-vision family members and their sighted children around visual artwork",
+            "image_link": "/images/ArtInsight_screenshot.jpeg",
+            "alt_text": "A screenshot of the ArtInsight application describing a child-created artwork which is a black and white drawing of a ferret",
+            "authors": "Arnavi Chheda-Kothary*, Ritesh Kanchi, Chris Sanders, Kevin Xiao, Aditya Sengupta, Melanie Kneitmix, Jacob O. Wobbrock, Jon E. Froehlich",
+            "conference_name": "IUI 2025",
+            "conference_link": "https://iui.acm.org/2025/",
+            "publication_link": "https://dl.acm.org/doi/10.1145/3708359.3712082",
+            "learn_more_link": "https://makeabilitylab.cs.washington.edu/project/mixed-ability-art/"
+        },
+        {
             "name": "Engaging with Children's Artwork in Mixed Visual-Ability Families",
             "details": "Understanding the role of technology in enabling blind and low-vision parents and relatives to engage more meaningfully with their children's visual creations",
             "image_link": "/images/lovemonster.png",
@@ -8,7 +19,7 @@
             "authors": "Arnavi Chheda-Kothary*, Jacob O. Wobbrock, Jon E. Froehlich",
             "conference_name": "ASSETS 2024",
             "conference_link": "https://assets24.sigaccess.org/",
-            "publication_link": "https://arxiv.org/abs/2407.18874",
+            "publication_link": "https://dl.acm.org/doi/10.1145/3663548.3675613",
             "learn_more_link": "https://makeabilitylab.cs.washington.edu/project/mixed-ability-art/",
             "best_paper": true
         },
