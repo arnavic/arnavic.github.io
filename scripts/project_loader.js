@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (project.publication_link && project.publication_link != "") {
-            innerHTML += `<a href="${project.publication_link}" target="_blank">Publication</a>`
+            innerHTML += `<a href="${project.publication_link}" target="_blank">${project.poster ? "Poster" : "Publication"}</a>`
         }
 
         if (project.learn_more_link && project.learn_more_link != "") {

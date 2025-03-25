@@ -43,7 +43,8 @@
             "conference_name": "ASSETS 2023",
             "conference_link": "https://assets23.sigaccess.org/",
             "publication_link": "https://dl.acm.org/doi/10.1145/3597638.3614490",
-            "learn_more_link": "https://ceal.cs.columbia.edu/spatialinteractions/"
+            "learn_more_link": "https://ceal.cs.columbia.edu/spatialinteractions/",
+            "poster": true
         },
         {
             "name": "Virtual Reality to Promote Fitness in Ambulatory Youth with Cerebral Palsy: A Case Series",
