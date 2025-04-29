@@ -1,8 +1,19 @@
 {
     "projects": [
         {
+            "name": "`It Brought Me Joy': Opprtunities for Spatial Browsing in Desktop Screen Readers",
+            "details": "Deploying a spatial browsing tool across lab and field studies for understanding BLV users' perceptions to spatial screen readers on desktops",
+            "image_link": "/images/webnext_thumbnail.png",
+            "alt_text": "A user wearing headphones navigates elements on a webpage, scrolling down with arrow keys and generating a spatialized beep.",
+            "authors": "Arnavi Chheda-Kothary*, Ather Sharif, David Rios, Brian A. Smith",
+            "conference_name": "CHI 2025",
+            "conference_link": "https://chi2025.acm.org/",
+            "publication_link": "https://dl.acm.org/doi/10.1145/3706598.3714125",
+            "learn_more_link": "https://ceal.cs.columbia.edu/webnext"
+        },
+        {
             "name": "ArtInsight: Enabling AI-Powered Artwork Engagement for Mixed Visual-Ability Families",
-            "details": "A Human-AI system designed for deeper engagement between blind or low-vision family members and their sighted children around visual artwork",
+            "details": "A human-AI system designed for deeper engagement between blind or low-vision family members and their sighted children around visual artwork",
             "image_link": "/images/ArtInsight_screenshot.jpeg",
             "alt_text": "A screenshot of the ArtInsight application describing a child-created artwork which is a black and white drawing of a ferret",
             "authors": "Arnavi Chheda-Kothary*, Ritesh Kanchi, Chris Sanders, Kevin Xiao, Aditya Sengupta, Melanie Kneitmix, Jacob O. Wobbrock, Jon E. Froehlich",
